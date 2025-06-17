@@ -1,0 +1,142 @@
+[
+  {
+    "doc_id": "doc_001",
+    "author_type": "Human",
+    "content": "Thanks for your hard work on the recent product launch.",
+    "timestamp": "2025-06-11T20:21:39.345584",
+    "prompt": null
+  },
+  {
+    "doc_id": "doc_002",
+    "author_type": "Human",
+    "content": "Looking forward to our team meeting next Tuesday to discuss the new project.",
+    "timestamp": "2025-06-11T20:31:39.345584",
+    "prompt": null
+  },
+  {
+    "doc_id": "doc_003",
+    "author_type": "AI",
+    "content": "Create a client-facing email about product updates and improvements. (AI generated content)",
+    "timestamp": "2025-06-11T20:41:39.345584",
+    "prompt": "Create a client-facing email about product updates and improvements."
+  },
+  {
+    "doc_id": "doc_004",
+    "author_type": "Human",
+    "content": "Remember to review the budget forecast before Friday.",
+    "timestamp": "2025-06-11T20:51:39.345584",
+    "prompt": null
+  },
+  {
+    "doc_id": "doc_005",
+    "author_type": "AI",
+    "content": "Write a short financial update email about quarterly revenue increase. (AI generated content)",
+    "timestamp": "2025-06-11T21:01:39.345584",
+    "prompt": "Write a short financial update email about quarterly revenue increase."
+  },
+  {
+    "doc_id": "doc_006",
+    "author_type": "AI",
+    "content": "Write a short financial update email about quarterly revenue increase. (AI generated content)",
+    "timestamp": "2025-06-11T21:11:39.345584",
+    "prompt": "Write a short financial update email about quarterly revenue increase."
+  },
+  {
+    "doc_id": "doc_007",
+    "author_type": "Human",
+    "content": "Looking forward to our team meeting next Tuesday to discuss the new project.",
+    "timestamp": "2025-06-11T21:21:39.345584",
+    "prompt": null
+  },
+  {
+    "doc_id": "doc_008",
+    "author_type": "Human",
+    "content": "Remember to review the budget forecast before Friday.",
+    "timestamp": "2025-06-11T21:31:39.345584",
+    "prompt": null
+  },
+  {
+    "doc_id": "doc_009",
+    "author_type": "AI",
+    "content": "Create a client-facing email about product updates and improvements. (AI generated content)",
+    "timestamp": "2025-06-11T21:41:39.345584",
+    "prompt": "Create a client-facing email about product updates and improvements."
+  },
+  {
+    "doc_id": "doc_010",
+    "author_type": "AI",
+    "content": "Write a short financial update email about quarterly revenue increase. (AI generated content)",
+    "timestamp": "2025-06-11T21:51:39.345584",
+    "prompt": "Write a short financial update email about quarterly revenue increase."
+  },
+  {
+    "doc_id": "doc_011",
+    "author_type": "AI",
+    "content": "Create a client-facing email about product updates and improvements. (AI generated content)",
+    "timestamp": "2025-06-11T22:01:39.345584",
+    "prompt": "Create a client-facing email about product updates and improvements."
+  },
+  {
+    "doc_id": "doc_012",
+    "author_type": "AI",
+    "content": "Summarize cost-saving measures for the quarterly financial report. (AI generated content)",
+    "timestamp": "2025-06-11T22:11:39.345584",
+    "prompt": "Summarize cost-saving measures for the quarterly financial report."
+  },
+  {
+    "doc_id": "doc_013",
+    "author_type": "AI",
+    "content": "Generate an internal memo reminding staff to submit expense reports. (AI generated content)",
+    "timestamp": "2025-06-11T22:21:39.345584",
+    "prompt": "Generate an internal memo reminding staff to submit expense reports."
+  },
+  {
+    "doc_id": "doc_014",
+    "author_type": "AI",
+    "content": "Generate an internal memo reminding staff to submit expense reports. (AI generated content)",
+    "timestamp": "2025-06-11T22:31:39.345584",
+    "prompt": "Generate an internal memo reminding staff to submit expense reports."
+  },
+  {
+    "doc_id": "doc_015",
+    "author_type": "Human",
+    "content": "Remember to review the budget forecast before Friday.",
+    "timestamp": "2025-06-11T22:41:39.345584",
+    "prompt": null
+  },
+  {
+    "doc_id": "doc_016",
+    "author_type": "AI",
+    "content": "Generate an internal memo reminding staff to submit expense reports. (AI generated content)",
+    "timestamp": "2025-06-11T22:51:39.345584",
+    "prompt": "Generate an internal memo reminding staff to submit expense reports."
+  },
+  {
+    "doc_id": "doc_017",
+    "author_type": "Human",
+    "content": "Remember to review the budget forecast before Friday.",
+    "timestamp": "2025-06-11T23:01:39.345584",
+    "prompt": null
+  },
+  {
+    "doc_id": "doc_018",
+    "author_type": "Human",
+    "content": "Remember to review the budget forecast before Friday.",
+    "timestamp": "2025-06-11T23:11:39.345584",
+    "prompt": null
+  },
+  {
+    "doc_id": "doc_019",
+    "author_type": "Human",
+    "content": "Please make sure to submit all expense reports by the end of the week.",
+    "timestamp": "2025-06-11T23:21:39.345584",
+    "prompt": null
+  },
+  {
+    "doc_id": "doc_020",
+    "author_type": "Human",
+    "content": "Please make sure to submit all expense reports by the end of the week.",
+    "timestamp": "2025-06-11T23:31:39.345584",
+    "prompt": null
+  }
+]

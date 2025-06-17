@@ -1,0 +1,62 @@
+[
+  {
+    "user_id": "user_1",
+    "prompt": "Create a client-facing email about product updates and improvements.",
+    "response_doc_id": "doc_003",
+    "timestamp": "2025-06-11T20:41:39.345584"
+  },
+  {
+    "user_id": "user_2",
+    "prompt": "Write a short financial update email about quarterly revenue increase.",
+    "response_doc_id": "doc_005",
+    "timestamp": "2025-06-11T21:01:39.345584"
+  },
+  {
+    "user_id": "user_1",
+    "prompt": "Write a short financial update email about quarterly revenue increase.",
+    "response_doc_id": "doc_006",
+    "timestamp": "2025-06-11T21:11:39.345584"
+  },
+  {
+    "user_id": "user_2",
+    "prompt": "Create a client-facing email about product updates and improvements.",
+    "response_doc_id": "doc_009",
+    "timestamp": "2025-06-11T21:41:39.345584"
+  },
+  {
+    "user_id": "user_1",
+    "prompt": "Write a short financial update email about quarterly revenue increase.",
+    "response_doc_id": "doc_010",
+    "timestamp": "2025-06-11T21:51:39.345584"
+  },
+  {
+    "user_id": "user_1",
+    "prompt": "Create a client-facing email about product updates and improvements.",
+    "response_doc_id": "doc_011",
+    "timestamp": "2025-06-11T22:01:39.345584"
+  },
+  {
+    "user_id": "user_1",
+    "prompt": "Summarize cost-saving measures for the quarterly financial report.",
+    "response_doc_id": "doc_012",
+    "timestamp": "2025-06-11T22:11:39.345584"
+  },
+  {
+    "user_id": "user_5",
+    "prompt": "Generate an internal memo reminding staff to submit expense reports.",
+    "response_doc_id": "doc_013",
+    "timestamp": "2025-06-11T22:21:39.345584"
+  },
+  {
+    "user_id": "user_4",
+    "prompt": "Generate an internal memo reminding staff to submit expense reports.",
+    "response_doc_id": "doc_014",
+    "timestamp": "2025-06-11T22:31:39.345584"
+  },
+  {
+    "user_id": "user_5",
+    "prompt": "Generate an internal memo reminding staff to submit expense reports.",
+    "response_doc_id": "doc_016",
+    "timestamp": "2025-06-11T22:51:39.345584"
+  }
+]

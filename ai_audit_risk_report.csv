@@ -1,0 +1,21 @@
+doc_id,generated_by,ai_user_id,ai_generated_at,content,violations,risk_score
+doc_001,Human,,,Thanks for your hard work on the recent product launch.,[],0
+doc_002,Human,,,Looking forward to our team meeting next Tuesday to discuss the new project.,[],0
+doc_003,AI,user_1,2025-06-11T20:41:39.345584,Create a client-facing email about product updates and improvements. (AI generated content),[],50
+doc_004,Human,,,Remember to review the budget forecast before Friday.,[],0
+doc_005,AI,user_2,2025-06-11T21:01:39.345584,Write a short financial update email about quarterly revenue increase. (AI generated content),[],50
+doc_006,AI,user_1,2025-06-11T21:11:39.345584,Write a short financial update email about quarterly revenue increase. (AI generated content),[],50
+doc_007,Human,,,Looking forward to our team meeting next Tuesday to discuss the new project.,[],0
+doc_008,Human,,,Remember to review the budget forecast before Friday.,[],0
+doc_009,AI,user_2,2025-06-11T21:41:39.345584,Create a client-facing email about product updates and improvements. (AI generated content),[],50
+doc_010,AI,user_1,2025-06-11T21:51:39.345584,Write a short financial update email about quarterly revenue increase. (AI generated content),[],50
+doc_011,AI,user_1,2025-06-11T22:01:39.345584,Create a client-facing email about product updates and improvements. (AI generated content),[],50
+doc_012,AI,user_1,2025-06-11T22:11:39.345584,Summarize cost-saving measures for the quarterly financial report. (AI generated content),[],50
+doc_013,AI,user_5,2025-06-11T22:21:39.345584,Generate an internal memo reminding staff to submit expense reports. (AI generated content),[],50
+doc_014,AI,user_4,2025-06-11T22:31:39.345584,Generate an internal memo reminding staff to submit expense reports. (AI generated content),[],50
+doc_015,Human,,,Remember to review the budget forecast before Friday.,[],0
+doc_016,AI,user_5,2025-06-11T22:51:39.345584,Generate an internal memo reminding staff to submit expense reports. (AI generated content),[],50
+doc_017,Human,,,Remember to review the budget forecast before Friday.,[],0
+doc_018,Human,,,Remember to review the budget forecast before Friday.,[],0
+doc_019,Human,,,Please make sure to submit all expense reports by the end of the week.,[],0
+doc_020,Human,,,Please make sure to submit all expense reports by the end of the week.,[],0
