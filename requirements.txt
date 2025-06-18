@@ -6,7 +6,6 @@ aiosignal
 aiosqlite
 alabaster
 altair==5.5.0
-anaconda-anon-usage
 anaconda-catalogs
 anaconda-client
 anaconda-cloud-auth
